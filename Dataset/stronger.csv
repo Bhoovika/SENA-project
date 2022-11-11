@@ -1,0 +1,59 @@
+Name,HP,ATK,DEF,Ascension Stat,Ascension Stat Value,Model,Element,Weapon,Sex,Nation
+Albedo,13225,251,876,Geo DMG Bonus,28.80%,Medium,Geo,Sword,Male,Mondstadt
+Aloy,10898,233,676,Liyue DMG Bonus,28.80%,Medium,Cryo,Bow,Female,Mondstadt
+Amber,9461,223,600,ATK,24.00%,Medium,Pyro,Bow,Female,Mondstadt
+Arataki Itto,12858,227,959,CRIT Rate,19.20%,Tall,Geo,Claymore,Male,Mondstadt
+Barbara,9787,159,668,HP,24.00%,Medium,Pyro,Catalyst,Female,Mondstadt
+Beidou,13049,225,648,Electro DMG Bonus,24.00%,Tall,Electro,Claymore,Female,Liyue
+Bennett,12397,191,771,Energy Recharge,26.80%,Medium,Pyro,Sword,Male,Mondstadt
+Candace,10874,212,682,HP,24.00%,Tall,Pyro,Polearm,Female,Snezhnaya
+Chongyun,10983,223,648,ATK,24.00%,Medium,Cryo,Claymore,Male,Liyue
+Collei,9787,199,600,ATK,24.00%,Medium,Hydro,Bow,Female,Snezhnaya
+Cyno,12490,318,859,CRIT DMG,38.40%,Medium,Electro,Polearm,Male,Snezhnaya
+Diluc,12980,334,783,CRIT Rate,19.20%,Tall,Pyro,Claymore,Male,Mondstadt
+Diona,9569,212,600,Liyue DMG Bonus,24.00%,Short,Cryo,Bow,Female,Mondstadt
+Dori,12397,223,723,HP,24.00%,Short,Electro,Claymore,Female,Snezhnaya
+Eula,13225,342,750,CRIT DMG,38.40%,Tall,Cryo,Claymore,Female,Mondstadt
+Fischl,9189,244,593,ATK,24.00%,Medium,Electro,Bow,Female,Mondstadt
+Ganyu,9796,334,630,CRIT DMG,38.40%,Medium,Cryo,Bow,Female,Mondstadt
+Gorou,9569,182,648,Geo DMG Bonus,24.00%,Medium,Geo,Bow,Male,Liyue
+Hu Tao,15552,106,876,CRIT DMG,38.40%,Medium,Pyro,Polearm,Female,Mondstadt
+Jean,14695,239,768,Healing Bonus,22.00%,Tall,Anemo,Sword,Female,Mondstadt
+Kaedehara Kazuha,13348,296,806,Elemental Mastery,115.2,Medium,Anemo,Sword,Male,Liyue
+Kaeya,11636,223,791,Energy Recharge,26.80%,Tall,Cryo,Sword,Male,Mondstadt
+Kamisato Ayaka,12858,342,783,CRIT DMG,38.40%,Medium,Cryo,Sword,Female,Mondstadt
+Kamisato Ayato,13715,298,768,CRIT DMG,38.40%,Tall,Pyro,Sword,Male,Liyue
+Keqing,13103,322,799,CRIT DMG,38.40%,Medium,Electro,Sword,Female,Mondstadt
+Klee,10286,310,614,Pyro DMG Bonus,28.80%,Short,Pyro,Catalyst,Female,Mondstadt
+Kujou Sara,9569,195,627,ATK,24.00%,Tall,Electro,Bow,Female,Liyue
+Kuki Shinobu,12288,212,750,HP,24.00%,Medium,Electro,Sword,Female,Liyue
+Lisa,9569,231,573,Elemental Mastery,96,Tall,Electro,Catalyst,Female,Mondstadt
+Mona,10409,287,653,Energy Recharge,32.00%,Medium,Pyro,Catalyst,Female,Mondstadt
+Nahida,10360,298,630,Elemental Mastery,115.2,Short,Pyro,Catalyst,Female,Snezhnaya
+Nilou,15184,229,728,HP,28.80%,Medium,Pyro,Sword,Female,Snezhnaya
+Ningguang,9787,212,573,Geo DMG Bonus,24.00%,Tall,Geo,Catalyst,Female,Liyue
+Noelle,12071,191,798,DEF,30.00%,Medium,Geo,Claymore,Female,Mondstadt
+Qiqi,12368,287,922,Healing Bonus,22.00%,Short,Cryo,Sword,Female,Liyue
+Raiden Shogun,12907,337,789,Energy Recharge,32.00%,Tall,Electro,Polearm,Female,Liyue
+Razor,11962,233,750,Physical DMG Bonus,30.00%,Medium,Electro,Claymore,Male,Mondstadt
+Rosaria,12288,240,709,ATK,24.00%,Tall,Cryo,Polearm,Female,Mondstadt
+Sangonomiya Kokomi,13470,234,657,Hydro DMG Bonus,28.80%,Medium,Hydro,Catalyst,Female,Liyue
+Sayu,11853,244,744,Elemental Mastery,96,Short,Anemo,Claymore,Female,Mondstadt
+Shenhe,12992,303,830,ATK,28.80%,Tall,Cryo,Polearm,Female,Liyue
+Shikanoin Heizou,10657,225,683,Anemo DMG Bonus,24.00%,Medium,Anemo,Catalyst,Male,Liyue
+Sucrose,9243,169,702,Anemo DMG Bonus,24.00%,Medium,Anemo,Catalyst,Female,Mondstadt
+Tartaglia,13103,301,814,Hydro DMG Bonus,28.80%,Tall,Hydro,Bow,Male,Snezhnaya
+Thoma,10331,201,750,ATK,24.00%,Tall,Pyro,Polearm,Male,Liyue
+Tighnari,10849,267,630,Hydro DMG Bonus,28.80%,Medium,Hydro,Bow,Male,Snezhnaya
+Traveler,10874,212,682,ATK,24.00%,Medium,Cryo,Sword,Female,Liyue
+Venti,10531,263,668,Energy Recharge,32.00%,Medium,Anemo,Bow,Male,Mondstadt
+Xiangling,10874,225,668,Elemental Mastery,96,Medium,Pyro,Polearm,Female,Liyue
+Xiao,12735,349,799,CRIT Rate,19.20%,Medium,Anemo,Polearm,Male,Liyue
+Xingqiu,10222,201,757,ATK,24.00%,Medium,Hydro,Sword,Male,Liyue
+Xinyan,11201,248,798,ATK,24.00%,Medium,Pyro,Claymore,Female,Liyue
+Yae Miko,10372,339,568,CRIT Rate,19.20%,Tall,Electro,Catalyst,Female,Liyue
+Yanfei,9352,240,586,Pyro DMG Bonus,24.00%,Medium,Pyro,Catalyst,Female,Liyue
+Yelan,14450,243,547,CRIT Rate,19.20%,Tall,Hydro,Bow,Female,Mondstadt
+Yoimiya,10164,322,614,CRIT Rate,19.20%,Medium,Pyro,Bow,Female,Mondstadt
+Yun Jin,10657,191,734,Energy Recharge,26.80%,Medium,Geo,Polearm,Female,Mondstadt
+Zhongli,14695,251,737,Geo DMG Bonus,28.80%,Tall,Geo,Polearm,Male,Mondstadt
